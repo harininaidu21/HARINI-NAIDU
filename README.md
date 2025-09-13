@@ -1,38 +1,33 @@
-# 👋 Hi, I'm [HARINI NADELLA]!
+# 👋 Hi, I'm Harini Nadella  
 
-### 🚀 About Me
-- 🎓 **CSE Pre-final year student** passionate about technology and problem-solving.
-- 🌱 Currently exploring **AI, supply chain optimization, and cloud computing**.
-- 📚 Constantly learning new things, from **Python programming** to **SQL** and **AI product management**.
-- 👨‍💻 **Member of Computer Society of India (CSI)**, exploring tech events and resources.
-- ✨ Just signed up for **GitHub** to share my projects, ideas, and open-source contributions!
+🎯 **Aspiring Data Analyst | Transforming Data into Insights**  
 
----
+## 🚀 About Me  
+I’m a **Computer Science and Engineering student** passionate about uncovering stories hidden in data.  
+With skills in **SQL, Excel, Python (Pandas, NumPy), Power BI, and Tableau**, I specialize in:  
 
-### 🔧 Technologies & Skills I'm Working With:
-- **Languages**: Python, SQL, Power BI, and learning more every day!
-- **Tools**: Git,  Excel, Power BI
-- **Areas of Interest**: AI Product Management, Demand Forecasting,Supply chain management,data analytics, python, Cloud Computing
+- 📊 Cleaning & analyzing data  
+- 📈 Creating dashboards and visualizations  
+- 🧠 Turning raw numbers into business insights  
 
----
+I believe data analytics is not just about numbers—it’s about **helping people make smarter decisions**.  
 
-### 🌐 Find Me Here:
-- **LinkedIn**: [https://www.linkedin.com/in/harini-nadella-022b132b9/)
----
+## 🔑 Highlights  
+- 🏆 **Projects**: Stress Detection, Weed Detection Prototype, AI Fashion Design, SDG 10 Samatha Framework  
+- 🎤 **Speaker**: Represented Andhra Pradesh at **IGEN EnerGathon 2025**  
+- 📚 **Knowledge Sharing**: Conducted workshops & SQL/AI learning series for peers  
+- 🎓 **Leadership**: Coordinator & Presenter for *Python Kinkstar5t* workshop  
 
-### 🚧 Current Projects:
-- 📊 **AI in Supply Chain Management**: Researching real-time dynamic pricing models.
-- 🎮 **Learning Python with Games**: Developing a Python-based game for beginner programming learners.
-- 💡 **Student Outreach**: Sharing knowledge about **AI career paths** on LinkedIn.
+## 📂 Explore More  
+📘 [About Me Repository](https://github.com/yourusername/about-me)  
+📜 [Certifications Repository](https://github.com/yourusername/certifications)  
 
 ---
 
-### 📝 Fun Facts:
-- 🎮 I’m working on a Python-based game concept to teach coding skills to beginners.
-- 🎨 Experimenting with Blender to create 3D models (still a beginner!).
-- 🚴 I love biking and use it to clear my mind after long coding sessions.
+## 📬 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📨 your-email@example.com  
+- 🎥 [YouTube](https://www.youtube.com/)  
 
 ---
-
-### 📈 GitHub Stats:
-[![Your GitHub Stats]()
+✨ *“Data is not just numbers; it’s a story waiting to be told.”*  
