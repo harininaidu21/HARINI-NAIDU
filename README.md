@@ -22,12 +22,9 @@ I believe data analytics is not just about numbers—it’s about **helping peop
 📘 [About Me Repository](https://github.com/yourusername/about-me)  
 📜 [Certifications Repository](https://github.com/yourusername/certifications)  
 
----
-
 ## 📬 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📨 your-email@example.com  
+- 📨 nadellaharini67@gmail.com 
 - 🎥 [YouTube](https://www.youtube.com/)  
 
----
 ✨ *“Data is not just numbers; it’s a story waiting to be told.”*  
