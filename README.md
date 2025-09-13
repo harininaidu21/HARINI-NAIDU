@@ -25,6 +25,5 @@ I believe data analytics is not just about numbers—it’s about **helping peop
 ## 📬 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📨 nadellaharini67@gmail.com 
-- 🎥 [YouTube](https://www.youtube.com/)  
 
 ✨ *“Data is not just numbers; it’s a story waiting to be told.”*  
